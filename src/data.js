@@ -47,7 +47,7 @@ export const projects = [
         description:`A Web platform to showcase my professional background,
                       qualifications, and projects.`,
         github: "https://github.com/madhushikadissanayake/My-Portfolio",
-        website: "https://madhushikadissanayake.github.io/My-Portfolio/",
+        website: "https://my-portfolio-blond-five-40.vercel.app/",
       },
       stack:[
         {
