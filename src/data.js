@@ -121,12 +121,12 @@ export const projects = [
     },
     {
       id:6,
-      title: 'Smoothie App',
+      title: 'TryFit: Virtual Dressing Room',
       image: pro6,
       data:{
-        description: `A  stunning 3D UI design for a smoothie app, featuring a dynamic 
-        carousel of smoothie bowls with seamless visual transitions for an engaging user experience.`,
-        figma: "https://www.figma.com/design/esafFIiZrt0aQf5GZE2fRe/Smoothie-Shop-App?node-id=27-2&t=LrNGC7HCd24UVwwm-1",
+        description: `A modern fashion e-commerce app with virtual try-on and smooth shopping features. 
+        The clean UI offers easy browsing, filtering, and secure checkout.`,
+        figma: "https://www.figma.com/design/OafBCjd6dv0EqBJin4iU1J/TryFit?node-id=0-1&t=ghqlSOqSuqjZ0cXF-1",
       },
       stack:[
         {
