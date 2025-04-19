@@ -17,7 +17,7 @@ const Header = () => {
                          <div className="header_info_middle">
                               <h1 className='primary_title header_title'>
                                   I'm a <TypeAnimation
-                                      sequence={['Full Stack Developer', 1000, 'Web Designer', 1000]} 
+                                      sequence={['Web Developer', 1000, 'Web Designer', 1000]} 
                                       wrapper="span"
                                       speed={50}
                                       repeat={Infinity}

@@ -15,7 +15,7 @@ const About = () => {
                 <div className="section_header">
                     <h2 className="primary_title">About Me</h2>
                     <p className="text_muted description">
-                    I am a passionate Full-Stack Developer dedicated to building scalable and user-friendly applications.
+                    I am a passionate Web Developer dedicated to building scalable and user-friendly applications.
                     With expertise in both frontend and backend development, I thrive in dynamic environments and enjoy
                     solving complex challenges. My adaptability and teamwork skills make me a valuable contributor to
                     any project. I am eager to expand my knowledge and take on opportunities that drive innovation 
