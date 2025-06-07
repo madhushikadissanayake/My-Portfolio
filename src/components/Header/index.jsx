@@ -39,7 +39,7 @@ const Header = () => {
                                 </a>
                             </div>
                         <div className="header_info_bottom">
-                            <a href="/Madhushika_Dissanayake_Internship_Resume.pdf" download className='btn'>Download CV</a>
+                            <a href="/Madhushika_Dissanayake_Internship_CV.pdf" download className='btn'>Download CV</a>
                             <Link to="contact" spy={true} smooth={true} offset={-70} duration={500} className='btn'>
                             Contact Me
                             </Link>
