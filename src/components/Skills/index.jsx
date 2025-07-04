@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Skills.css";
 import { FaReact, FaCss3Alt, FaJs, FaDatabase, FaHtml5 } from 'react-icons/fa';
-import { SiTailwindcss, SiMongodb, SiExpress } from 'react-icons/si';
+import { SiTailwindcss, SiMongodb,  SiNextdotjs } from 'react-icons/si';
 
 const Skills = () => {
     const skills = [
@@ -9,7 +9,7 @@ const Skills = () => {
         { icon: <FaHtml5 size={80} />, name: 'HTML' },
         { icon: <SiTailwindcss size={80} />, name: 'Tailwind' },
         { icon: <FaCss3Alt size={80} />, name: 'CSS' },
-        { icon: <SiExpress size={80} />, name: 'Express.js' },
+        { icon: < SiNextdotjs size={80} />, name: 'Next.js' },
         { icon: <FaJs size={80} />, name: 'JavaScript' },
         { icon: <FaDatabase size={80} />, name: 'MySQL' },
         { icon: <SiMongodb size={80} />, name: 'MongoDB' }
