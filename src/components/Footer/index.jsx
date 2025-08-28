@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import { FaGithub, FaLinkedin, FaFacebook, FaInstagram, FaEnvelope, FaPhone } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaFacebook, FaInstagram, FaEnvelope, FaPhone, FaBehance } from 'react-icons/fa';
 
 const Footer = () => {
     return (
@@ -12,8 +12,10 @@ const Footer = () => {
                 <div className="social_links">
                     <a href="https://github.com/madhushikadissanayake" target="_blank" rel="noopener noreferrer">
                         <FaGithub size={30} /></a>
-                     <a href="http://www.linkedin.com/in/madhushika-dissanayake" target="_blank" rel="noopener noreferrer">
+                    <a href="http://www.linkedin.com/in/madhushika-dissanayake" target="_blank" rel="noopener noreferrer">
                         <FaLinkedin size={30} /></a>
+                    <a href="https://www.behance.net/madhushikadissanayak" target="_blank" rel="noopener noreferrer">
+                        <FaBehance size={30} /></a>
                     <a href="https://www.instagram.com/madhushika_dissanayake_?igsh=MXA2amJvNzFhcjZ1Zw==" target="_blank" rel="noopener noreferrer">
                         <FaInstagram size={30} /></a>
                     <a href="https://www.facebook.com/share/1FVfgMsRwP/" target="_blank" rel="noopener noreferrer">

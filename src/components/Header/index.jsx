@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Header.css";
 import { homebg } from "../../images";
-import { FaGithub, FaLinkedin, FaInstagram, FaFacebook } from 'react-icons/fa'; 
+import { FaGithub, FaLinkedin, FaInstagram, FaFacebook, FaBehance } from 'react-icons/fa'; 
 import { TypeAnimation } from 'react-type-animation'; 
 import { Link } from 'react-scroll';
 
@@ -30,6 +30,9 @@ const Header = () => {
                                 </a>
                                 <a href="http://www.linkedin.com/in/madhushika-dissanayake" target="_blank" rel="noopener noreferrer">
                                     <FaLinkedin size={30} />
+                                </a>
+                                <a href="https://www.behance.net/madhushikadissanayak" target="_blank" rel="noopener noreferrer">
+                                    <FaBehance size={30} />
                                 </a>
                                 <a href="https://www.instagram.com/madhushika_dissanayake_?igsh=MXA2amJvNzFhcjZ1Zw==" target="_blank" rel="noopener noreferrer">
                                     <FaInstagram size={30} />
