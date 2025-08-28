@@ -15,11 +15,14 @@ const About = () => {
                 <div className="section_header">
                     <h2 className="primary_title">About Me</h2>
                     <p className="text_muted description">
-                    I am a passionate Web Developer dedicated to building scalable and user-friendly applications.
-                    With expertise in both frontend and backend development, I thrive in dynamic environments and enjoy
-                    solving complex challenges. My adaptability and teamwork skills make me a valuable contributor to
-                    any project. I am eager to expand my knowledge and take on opportunities that drive innovation 
-                    and impact.
+                    I am a passionate UI/UX Engineer and Frontend Developer dedicated to creating intuitive,
+                    responsive, and visually engaging digital experiences. With a strong foundation in 
+                    user-centered design and modern frontend technologies, I thrive at the intersection 
+                    of design and development. I excel in crafting scalable interfaces that prioritize 
+                    usability and accessibility. My collaborative mindset and adaptability make me an 
+                    effective team player in fast-paced, innovative environments. I am eager to grow 
+                    as a designer and developer, and to contribute to projects that push creative and 
+                    technical boundaries.
                     </p>
                     <div className="metrics_container">
                         <div className="metric">
