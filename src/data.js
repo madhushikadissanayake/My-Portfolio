@@ -89,11 +89,11 @@ export const projects = [
       data:{
         description: `A user-friendly app design with a visually engaging home screen, a favorites section, 
         and an intuitive layout for easy browsing and purchases.`,
-        figma: "https://www.figma.com/design/8qjuJk3zMxiXhdRmtzRBAI/Coffee-Shop-App?node-id=0-1&t=otdYp31ksWfgv74r-1",
+        behance: "https://www.behance.net/gallery/231555045/Coffee-Shop-App",
       },
       stack:[
         {
-          name:"Figma",
+          name:"Behance",
         },
       ]
     },
@@ -126,11 +126,11 @@ export const projects = [
       data:{
         description: `A modern fashion e-commerce app with virtual try-on and smooth shopping features. 
         The clean UI offers easy browsing, filtering, and secure checkout.`,
-        figma: "https://www.figma.com/design/OafBCjd6dv0EqBJin4iU1J/TryFit?node-id=0-1&t=ghqlSOqSuqjZ0cXF-1",
+        behance: "https://www.behance.net/gallery/231556571/TryFit",
       },
       stack:[
         {
-          name:"Figma",
+          name:"Behance",
         },
       ]
     },

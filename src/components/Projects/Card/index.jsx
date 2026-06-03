@@ -1,6 +1,6 @@
 import React from 'react';
 import './Card.css';
-import { FaGithub, FaExternalLinkAlt, FaFigma } from 'react-icons/fa';
+import { FaGithub, FaExternalLinkAlt, FaBehance } from 'react-icons/fa';
 
 const Card = (props) => {
     return (
@@ -34,9 +34,9 @@ const Card = (props) => {
                                 <FaExternalLinkAlt size={20} />
                             </a>
                         )}
-                        {props.data.figma && (
-                            <a href={props.data.figma} target="_blank" rel="noopener noreferrer">
-                                <FaFigma size={20} />
+                        {props.data.behance && (
+                            <a href={props.data.behance} target="_blank" rel="noopener noreferrer">
+                                <FaBehance size={24} />
                             </a>
                         )}
                     </div>
